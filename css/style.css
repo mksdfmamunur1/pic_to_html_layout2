@@ -137,6 +137,7 @@ header{
 .service1 p{
 	color: #999DAF;
 	margin: 25px 0px;
+	padding: 2px;
 }
 .service1 button{
 	color: white;
@@ -155,11 +156,12 @@ footer{
 	padding: 20px;
 	margin-bottom: 20px;
 }
-footer h3{
+footer p{
 	margin: 20px 0px;
 }
 footer .icon img{
-	width: 50px;
-	height: 50px;
+	width: 40px;
+	height: 40px;
+	padding: 0px 5px;
 }
 /*footer end*/
